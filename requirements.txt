@@ -1,3 +1,4 @@
+python-magic-bin
 eyed3
 requests
 unidecode
