@@ -1,0 +1,4 @@
+eyed3
+requests
+unidecode
+gmusicapi
