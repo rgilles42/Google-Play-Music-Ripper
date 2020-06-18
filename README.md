@@ -1,5 +1,6 @@
 # Google-Play-Music-Ripper
 A set of Python scripts meant to automate MP3 ripping from Google Play
+Note that you need a Google account with an active Play Music Premium subscription (though it works with the free trial ;) )
 
 ## Requirements
 In order to install and run this package you need the following applications:
